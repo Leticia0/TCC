@@ -104,7 +104,7 @@
 
         </div>
     </div>
-    <div class="ui segment">
+   <!-- <div class="ui segment">
         <div class="field">
             <div style="margin-left: 4%" class="ui toggle checkbox">
                 <input type="checkbox" name="gift" tabindex="0" class="hidden">
@@ -112,10 +112,20 @@
             </div>
         </div>
     </div>
+-->
 
         <a href="index.php"><button style="margin-left: 4%" class="ui red button">Cancelar</button>
          <button class="ui green button" type="submit">Cadastrar</button>
+        </a>
+<br><br>
+<br><br>
+<br>
 
-</form>
+	</form>
 </body>
+<footer>
+   
+<?php include ("rodape.php");?>
+</footer>
+
 </html>

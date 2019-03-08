@@ -26,3 +26,15 @@ include ("cabecalho.php");
 
                 <a href="index.php"><button class="ui red button">Cancelar</button>
                     <button class="ui green button" type="submit">Login</button>
+
+
+        </a>
+    </div>
+
+    <br><br>
+    <br><br>
+<footer>
+    <?php include ("rodape.php");?>
+</footer>
+
+</html>
