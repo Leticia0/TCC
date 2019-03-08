@@ -4,7 +4,7 @@
 
 <html>
 <head>
-     <link rel="stylesheet" type="text/css" href="index.css">
+     <link rel="stylesheet" type="text/css" href="css/index.css">
      <link rel="stylesheet" type="text/css" href="Semantic-UI-CSS-master/components/icon.min.css">
 </head>
 <body>
