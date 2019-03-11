@@ -15,21 +15,21 @@
 </head>
 <body>
 
-<div id="sol" class="carousel slide" data-ride="carousel">
+<div id="sol" class="carousel slide" data-ride="carousel" style= "width: 50%">
   <ol class="carousel-indicators">
-    <li data-target="#sol" data-slide-to="0" class="active"></li>
-    <li data-target="#morango" data-slide-to="1"></li>
-    <li data-target="#sol" data-slide-to="2"></li>
+    <li data-target="#waffles" data-slide-to="0" class="active"></li>
+    <li data-target="#fast-food" data-slide-to="1"></li>
+    <li data-target="#waffles" data-slide-to="2"></li>
   </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="sol.jpg" alt="First slide">
+  <div class="carousel-inner" >
+    <div class="carousel-item active" >
+      <img class="d-block w-100" src="img/waffles.jpg" alt="First slide" >
     </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="morango.jpg" alt="Second slide">
+    <div class="carousel-item" >
+      <img class="d-block w-100" src="img/fast-food.jpg" alt="Second slide">
     </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="sol.jpg" alt="Third slide">
+    <div class="carousel-item" >
+      <img class="d-block w-100" src="img/waffles.jpg" alt="Third slide" >
     </div>
   </div>
   <a class="carousel-control-prev" href="#sol" role="button" data-slide="prev">
