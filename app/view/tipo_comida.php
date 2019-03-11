@@ -1,17 +1,18 @@
 <?php
-	include ("cabecalho.php");
+	include("cabecalho.php");
 ?>
 
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Comidas</title>
-	  <link rel="stylesheet" type="text/css" href="semantic.min.css">
- 	  <link rel="stylesheet" type="text/css" href="Semantic-UI-CSS-master/components/icon.min.css">
-  	  <link rel="stylesheet" type="text/css" href="Semantic-UI-CSS-master/components/card.css">
+	  <link rel="stylesheet" type="text/css" href="../../assets/SemanticUI/semantic.min.css">
+ 	  <link rel="stylesheet" type="text/css" href="../../assets/SemanticUI/components/icon.min.css">
+  	  <link rel="stylesheet" type="text/css" href="../../assets/SemanticUI/components/card.css">
   	  <!--   <script type="text/javascript" rel="card.js"></script>    -->
 </head>
 <body>
+
 	<div class="ui special cards">
   <div class="card">
     <div class="blurring dimmable image">
@@ -22,7 +23,7 @@
           </div>
         </div>
       </div>
-      <img src="img/logoo.png">
+      <img src="../../assets/img/logoo.png">
     </div>
     <div class="content">
       <a class="header">Team Fu</a>
@@ -46,7 +47,7 @@
           </div>
         </div>
       </div>
-      <img src="img/logoo.png">
+      <img src="../../assets/img/logoo.png">
     </div>
     <div class="content">
       <a class="header">Team Hess</a>

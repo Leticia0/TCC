@@ -1,5 +1,5 @@
 <?php
-	include ("cabecalho.php");
+	include("cabecalho.php");
 ?>
 
 <!DOCTYPE html>
@@ -14,5 +14,5 @@
 
 
 <?php
-	include ("rodape.php");
+	include("rodape.php");
 ?>
