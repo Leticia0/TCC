@@ -21,6 +21,11 @@
             Cadastre seu Restaurante
         </a>
 
+        
+        <a href="restaurantes.php" class="item">
+            Restaurantes
+        </a>
+
            <a href="login.php" class="item">
             Sobre Nós
         </a>
