@@ -2,10 +2,19 @@
 ?>
 <html>
 	<head>
-	    <title>Home</title>
 
-	    <link rel="stylesheet" type="text/css" href="index.css">
-        <link rel="stylesheet" type="text/css" href="../../assets/SemanticUI/semantic.min.css">
+        <script>
+            $('.ui.dropdown')
+                .dropdown()
+            ;
+
+
+            $('.special.cards .image').dimmer({
+                on: 'hover'
+            });
+        </script>
+
+
 	</head>
 
 	<body>
