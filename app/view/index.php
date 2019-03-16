@@ -2,6 +2,7 @@
     include("cabecalho.php");
     include("../../assets/Bootstrap/carrossel.php");
 ?>
+
 <body>
 
 <div class="ui center aligned grid segment">

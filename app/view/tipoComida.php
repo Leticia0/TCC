@@ -8,7 +8,7 @@
 	<title>Comidas</title>
 </head>
 <body>
-<div  style="padding-top: 1%">
+<div  style="padding-top: 0.7%">
 	<div class="ui special cards" style="margin-left: 6.5%">
   <div class="card" style="width: 30%">
     <div class="blurring dimmable image">
@@ -19,7 +19,7 @@
           </div>
         </div>
       </div>
-      <img src="../../assets/img/tipo_comida/sushi.jpg">
+      <img src="../../assets/img/tipo_comida/sushi.jpg" style="height: 41.7%">
     </div>
 
    </div>
@@ -32,7 +32,7 @@
           </div>
         </div>
       </div>
-      <img src="../../assets/img/tipo_comida/fast-food.jpg">
+      <img src="../../assets/img/tipo_comida/fast-food.jpg" style="height: 41.7%">
     </div>
 
  </div>
@@ -41,16 +41,16 @@
       <div class="ui dimmer">
         <div class="content">
           <div class="center">
-            <div  class="ui inverted button">Fast Food</div>
+            <div  class="ui inverted button">Doces</div>
           </div>
         </div>
       </div>
-      <img src="../../assets/img/tipo_comida/fast-food.jpg">
+      <img src="../../assets/img/tipo_comida/bolo.jpg" style="height: 41.7%">
     </div>
 
   </div>
   </div>
-  <div  style="padding-top: 2%">
+  <div  style="padding-top: 1%">
   <div class="ui special cards" style="margin-left: 6.5%">
   <div class="card" style="width: 30%">
     <div class="blurring dimmable image">
@@ -61,7 +61,7 @@
           </div>
         </div>
       </div>
-      <img src="../../assets/img/tipo_comida/italiana.jpg">
+      <img src="../../assets/img/tipo_comida/italiana.jpg" style="height: 41.7%">
     </div>
 
 
@@ -76,7 +76,7 @@
           </div>
         </div>
       </div>
-      <img src="../../assets/img/tipo_comida/vegetariana.jpg">
+      <img src="../../assets/img/tipo_comida/vegetariana.jpg" style="height: 41.7%">
     </div>
 
     </div>
@@ -85,11 +85,11 @@
       <div class="ui dimmer">
         <div class="content">
           <div class="center">
-            <div  class="ui inverted button">Comida Vegetariana</div>
+            <div  class="ui inverted button">Cafeteria</div>
           </div>
         </div>
       </div>
-      <img src="../../assets/img/tipo_comida/vegetariana.jpg">
+      <img src="../../assets/img/tipo_comida/chocolate-quente.jpg" style="height: 41.7%">
     </div>
 
   </div>

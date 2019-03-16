@@ -13,28 +13,30 @@
 
 </head>
 
-
-<div class="ui sixteen wide column orange inverted segment">
+<!--
+<div class="ui nineteen wide column orange inverted segment">
     <div class="row">
+-->
         <div id="menu" class="ui orange six active item inverted menu">
 
             <a href="index.php" class="item">
                 <img alt="" src="../../assets/img/aa.png">
             </a>
+        
             <a href="index.php" class="item">
                 Home
             </a>
             <a href="cadastro_restaurante.php" class="item">
                 Cadastre seu Restaurante
             </a>
-            <a href="login.php" class="item">
-                Sobre Nós
-            </a>
-            <a href="tipo_comida.php" class="item">
+            <a href="tipoComida.php" class="item">
                 Comidas
             </a>
             <a href="login.php" class="item">
-                <img alt =""  src="../../assets/img/user_circle.png">
+                Sobre Nós
+            </a>
+            <a href="login.php" class="item">
+                <i class="user circle icon"></i>
             </a>
         </div>
     </div>
