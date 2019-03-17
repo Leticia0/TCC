@@ -5,7 +5,7 @@
 
 <body>
 
-<div class="ui center aligned grid segment">
+<div class="ui center aligned grid segment" style="margin-top: 15%">
 
     <div class="row">
         <div class="ui sixteen wide column">

@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,39 +13,42 @@
 
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script>
 
+      <link rel="stylesheet" type="text/css" href="../../assets/css/carrossel.css">
+
+
 </head>
 
 <body>
 
 <center>
 
-<div id="sol" class="carousel slide" data-ride="carousel">
+<div id="tamanho-carrossel" class="carousel slide" data-ride="carousel"  >
   <ol class="carousel-indicators">
     <li data-target="#macarrom" data-slide-to="0" class="active"></li>
     <li data-target="#muffins" data-slide-to="1"></li>
     <li data-target="#pratos" data-slide-to="2"></li>
   </ol>
-  <div class="carousel-inner"  style="height: 90%">  <!-- AQUI MUDEI O TAMANHO DO CARROSSEL, NO ENTANTO CORTA AS IMAGENS!! -->
+  <div  class="carousel-inner"  >  <!-- a class muda o tamanho da imagem -->
     <div class="carousel-item active" class="imagem-menu">
-      <img class="d-block w-100" src="../../assets/img/carrossel/macarron.jpg" alt="First slide" class="imagem-menu">
+      <img style="height:90%" src="../../assets/img/carrossel/macarron.jpg" alt="First slide" class="imagem-menu">
     </div>
-    <div class="carousel-item" >
-      <img class="d-block w-100" src="../../assets/img/carrossel/muffins.jpg" alt="Second slide">
+    <div  class="carousel-item" >
+      <img style="height:90%" src="../../assets/img/carrossel/muffins.jpg" alt="Second slide">
     </div>
-    <div class="carousel-item" >
-      <img class="d-block w-100" src="../../assets/img/carrossel/pratos.jpg" alt="Third slide">
+    <div  class="carousel-item" >
+      <img style="height:90%" src="../../assets/img/carrossel/pratos.jpg" alt="Third slide">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#sol" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#tamanho-carrossel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#sol" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#tamanho-carrossel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+</center>
 
 
 
