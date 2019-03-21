@@ -30,13 +30,13 @@
   </ol>
   <div  class="carousel-inner"  >  <!-- a class muda o tamanho da imagem -->
     <div class="carousel-item active" class="imagem-menu">
-      <img style="height:90%" src="../../assets/img/carrossel/macarron.jpg" alt="First slide" class="imagem-menu">
+      <img style="height:70%" src="../../assets/img/carrossel/macarron.jpg" alt="First slide" class="imagem-menu">
     </div>
     <div  class="carousel-item" >
-      <img style="height:90%" src="../../assets/img/carrossel/muffins.jpg" alt="Second slide">
+      <img style="height:70%" src="../../assets/img/carrossel/muffins.jpg" alt="Second slide">
     </div>
     <div  class="carousel-item" >
-      <img style="height:90%" src="../../assets/img/carrossel/pratos.jpg" alt="Third slide">
+      <img style="height:70%" src="../../assets/img/carrossel/pratos.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#tamanho-carrossel" role="button" data-slide="prev">

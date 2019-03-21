@@ -7,3 +7,12 @@ div#cardsJogos{
 	width: 25%;
 	height: 32%;
 }
+#fundo{
+	 background-image: url(../img/carrossel/muffins.jpg);
+}
+/*
+#margem{
+	margin-top: -40%;
+}
+
+#

@@ -1,11 +1,15 @@
 <?php
     include("cabecalho.php");
-    include("../../assets/Bootstrap/carrossel.php");
 ?>
 
-<body>
 
-<div class="ui center aligned grid segment" style="margin-top: 15%">
+<head>
+    <link rel="stylesheet" type="text/css" href="../../assets/css/index.css">
+</head>
+
+<body id="margem" class="">
+
+<div class="ui center aligned grid" style="margin-top: 1%">
 
     <div class="row">
         <div class="ui sixteen wide column">
@@ -86,6 +90,16 @@
     </div>
 </div>
 </body>
+
+<div id="fundo">
+</div>
+
+
+<?php
+    include("../../assets/Bootstrap/carrossel.php");
+?>
+
+
 
 <footer>
 
