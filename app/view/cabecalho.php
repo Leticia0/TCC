@@ -20,7 +20,7 @@
         <div id="menu" class="ui orange six active item inverted menu">
 
             <a href="index.php" class="item">
-                <img alt="" src="../../assets/img/aa.png">
+                <img alt="" src="../../assets/img/logo.png">
             </a>
         
             <a href="index.php" class="item">
@@ -36,7 +36,7 @@
                 Sobre Nós
             </a>
             <a href="login.php" class="item">
-                <i class="user circle icon"></i>
+                <i class="user big circle icon"></i>
             </a>
         </div>
     </div>
