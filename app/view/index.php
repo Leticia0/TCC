@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="../../assets/css/index.css">
 </head>
 
-<body id="margem" class="">
+<body id="fundo" class="">
 
 <div class="ui center aligned grid" style="margin-top: 1%">
 
