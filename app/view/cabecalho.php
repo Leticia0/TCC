@@ -1,5 +1,6 @@
 <??>
 <html lang="pt-br">
+
 <head>
 
     <title>Home</title>
@@ -13,10 +14,26 @@
 
 </head>
 
-<!--
+
+
+    <!--
+    <body id="fundo" style="background-image: url(../../assets/img/carrossel/muffins.jpg); width: 50%;">
+        </body>
+
+        </head>
+
+        !-->
+
+
+        <body>
+           
+     
+
+
+
 <div class="ui nineteen wide column orange inverted segment">
     <div class="row">
--->
+
         <div id="menu" class="ui orange six active item inverted menu">
 
             <a href="index.php" class="item">
@@ -42,5 +59,9 @@
     </div>
 </div>
 
+
+
+
+       <body/>
 
 </html>
