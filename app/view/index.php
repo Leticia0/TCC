@@ -14,11 +14,12 @@
     <div class="row">
         <div class="ui sixteen wide column">
 
-            <h3 class="ui padded">Encontre Restaurantes Próximos</h3>
+            <h3 class="ui padded" style="color: orange">Encontre Restaurantes Próximos</h3>
 
         </div>
     </div>
-
+<br><br><br>
+<br><br><br>
 
     <div class="row">
         <div class="ui ten wide column">
@@ -28,7 +29,7 @@
                     <div class="field">
                         <label>Estado</label>
                         <select class="ui dropdown">
-                            <option value="">--</option>
+                            <option value=""></option>
                             <option value="AC">Acre</option>
                             <option value="AL">Alagoas</option>
                             <option value="AP">Amapá</option>
@@ -58,11 +59,14 @@
                             <option value="TO">Tocantins</option>
                         </select>
                     </div>
-
+<br>
+                    <button class="ui icon button" style="margin-left: 47%">
+                        <i class="search icon"></i>
+                    </button>
                     <div class="field">
                         <label>Cidade</label>
                         <select class="ui dropdown">
-                            <option value="">--</option>
+                            <option value=""></option>
                             <option value="AR">Araquari</option>
                             <option value="BBS">Balneário Barra do Sul</option>
                             <option value="JLLE">Joinville</option>
@@ -75,15 +79,7 @@
 
 
 
-        <div class="ui six wide column">
-            <form class="ui form" method="post" action="#?acao=search">
-                <div class="ui right floated action input">
-                    <input type="text" placeholder="Pesquisar">
-                    <button class="ui icon button">
-                        <i class="search icon"></i>
-                    </button>
-                </div>
-            </form>
+
         </div>
 
 

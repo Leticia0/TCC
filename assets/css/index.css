@@ -11,11 +11,11 @@ div#cardsJogos{
 
 /*AQUI MUDA A IMAGEM DE FUNDO*/
 body{
-
-	background-image:url(../img/carrossel/muffins.jpg);
+	background-image:url(../fundo.jpg);
 	background-position: center center;
-	background-attachment: fixed;
-	background-size: 100%;
+	background-attachment: scroll;
+	background-size: 100% 90%;
+	background-repeat: no-repeat;
 }
 
 /*
