@@ -1,6 +1,6 @@
 <?php
 
-class Restaurante
+class Denuncia
 {
     private $id;
     private $tipo;

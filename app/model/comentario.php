@@ -1,6 +1,6 @@
 <?php
 
-class Restaurante
+class Comentario
 {
     private $id;
     private $descricao;

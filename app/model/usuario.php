@@ -8,7 +8,20 @@ class Usuario
     private $senha;
     private $dt_nasc;
 
-    public function CadastrarRestaurante{
+    public function cadastrarRestaurante{
         //função
     }
+
+    public function denunciarRestaurante{
+    	//código
+    }
+
+	public function comentar{
+		//função
+	}
+ 	
+ 	public function denunciarComentario{
+	    //código
+	}
+
 }
