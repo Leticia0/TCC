@@ -8,7 +8,11 @@ div#cardsJogos{
 	height: 32%;
 }
 #fundo{
+<<<<<<< HEAD
 	 background-image: url(../img/fundo.jpg);
+=======
+	 background-image: url(../img/carrossel/muffins.jpg);
+>>>>>>> c1769f2d0cd3b9f6b994a3dc19fd2bf9b5191416
 }
 /*
 #margem{
