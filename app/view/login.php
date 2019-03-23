@@ -6,6 +6,7 @@ include("cabecalho.php");
     <title>Home</title>
     <link rel="stylesheet" type="text/css" href="../../assets/SemanticUI/semantic.min.css">
     <link rel="stylesheet" type="text/css" href="../../assets/css/cabecalho.css">
+    <link rel="stylesheet" type="text/css" href="../../assets/css/login.css">
 
     <form class="ui form"><br>
         <h2 style="margin-left: 30%" id="login">Login</h2>
@@ -30,6 +31,8 @@ include("cabecalho.php");
 
         </a>
     </div>
+
+
 
     <br><br>
     <br><br>
