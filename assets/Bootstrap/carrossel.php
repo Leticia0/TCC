@@ -21,37 +21,41 @@
 <body>
 
 <center>
+  <div class="espaco">
+    <div id="tamanho-carrossel" class="carousel slide" data-ride="carousel"  >
+      <ol class="carousel-indicators">
+        <li data-target="#macarrom" data-slide-to="0" class="active"></li>
+        <li data-target="#melancia" data-slide-to="1"></li>
+        <li data-target="#pratos" data-slide-to="2"></li>
+      </ol>
 
-<div id="tamanho-carrossel" class="carousel slide" data-ride="carousel"  >
-  <ol class="carousel-indicators">
-    <li data-target="#macarrom" data-slide-to="0" class="active"></li>
-    <li data-target="#melancia" data-slide-to="1"></li>
-    <li data-target="#pratos" data-slide-to="2"></li>
-  </ol>
-  <div  class="carousel-inner"  >  <!-- a class muda o tamanho da imagem -->
-    <div class="carousel-item active" class="imagem-menu">
-      <img style="height:70%" src="../../assets/img/carrossel/macarron.jpg" alt="First slide" class="imagem-menu">
+    <div  class="carousel-inner"  >  <!-- a class muda o tamanho da imagem -->
+        <div class="carousel-item active" class="imagem-menu">
+          <img id="tamanho" src="../../assets/img/carrossel/macarron.jpg" alt="First slide" class="imagem-menu">
+        </div>
+
+        <div  class="carousel-item" >
+          <img id="tamanho" src="../../assets/img/carrossel/melancia.jpg" alt="Second slide">
+        </div>
+
+        <div  class="carousel-item" >
+          <img id="tamanho" src="../../assets/img/carrossel/pratos.jpg" alt="Third slide">
+        </div>
+
     </div>
-    <div  class="carousel-item" >
-      <img style="height:70%" src="../../assets/img/carrossel/melancia.jpg" alt="Second slide">
-    </div>
-    <div  class="carousel-item" >
-      <img style="height:70%" src="../../assets/img/carrossel/pratos.jpg" alt="Third slide">
+
+    <a class="carousel-control-prev" href="#tamanho-carrossel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Anterior</span>
+    </a>
+
+    <a class="carousel-control-next" href="#tamanho-carrossel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Próximo</span>
+    </a>
+
     </div>
   </div>
-  <a class="carousel-control-prev" href="#tamanho-carrossel" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#tamanho-carrossel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-</center>
-
-
-
-  
+</center>  
 </body>
 </html>

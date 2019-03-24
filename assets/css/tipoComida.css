@@ -1,0 +1,30 @@
+
+/*AQUI MUDA A IMAGEM DE FUNDO
+body{
+	background-image:url(../img/fundo.jpg);
+	background-position: center center;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+*/
+
+div.Um{
+	margin-top: 1.3%;
+}
+
+div#esquerda{
+	margin-left:  6.5%;
+}
+
+div#tamanho{
+	width: 30%;
+}
+
+img#tamanho{
+	height: 41.7%;
+}
+
+div.espaco-superior{
+	margin-top: 0.2%;
+}

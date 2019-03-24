@@ -44,7 +44,7 @@ class Usuario
        return $this->senha;
     }
 
-    public function setDataNascimento($dt_nasc){
+    public function setDataNascimento(date(m-d-y /*formato de data*/) $dt_nasc){
        return $this->dt_nasc;
     }
 }

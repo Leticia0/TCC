@@ -1,11 +1,10 @@
-div#animais{
-	display: inline;
+#botao{
+	padding-top: 2%;
+	margin-left: 4%;
 }
 
-div#cardsJogos{
-	margin-left: 12.5%;
-	width: 25%;
-	height: 32%;
+h3#pagina{
+	color: orange;
 }
 
 

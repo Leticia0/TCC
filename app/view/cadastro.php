@@ -5,27 +5,35 @@
 <html>
 <head>
 <title>Cadastre-se</title>
+<link rel="stylesheet" type="text/css" href="../../assets/css/cadastroUsuario.css">
 </head>
 <body>
-<form class="ui form" method="post" action="usuario.php?acao=create">
+<form class="ui form">
 
-    <center><h3>Cadastre-se</h3></center>
-    <p class="ui dividing header"></p>
+    <center><h3 id="pagina">Cadastre-se</h3></center>
 
 
-    <div style="margin-left: 4%" class="field">
+    <div id="formulario" class="field">
+
         <label>Nome</label>
-        <div class="two fields">
-            <div class="field">
-                <input type="text" name="shipping[first-name]" placeholder="Leticia">
+            <div class="four fields">
+                <div class="field">
+                    <input id="letra" type="text" name="shipping[first-name]" placeholder="Leticia">
+                </div>
+                </div>
+
+        <label>Sobrenome</label>
+            <div class="four fields">
+                <div class="field">
+                    <input type="text" name="shipping[first-name]" placeholder="Santos" id="letra">
+
+    </div>
+
+
             </div>
-            <div class="field">
-                <input type="text" name="shipping[last-name]" placeholder="Santos">
-            </div>
-        </div>
     </div>
     
-    <div style="margin-left: 4%" class="field">
+    <div id="formulario" class="field">
         <label>Endereço de E-mail</label>
         <div class="fields">
             <div class="twelve wide field">

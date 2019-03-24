@@ -1,6 +1,9 @@
+div#menu{
+/*Não funcionou - queria deixar a borda quadrada*/
+}
+
 div#menu a:hover{
     background-color: active;
-
 }
 
 div#login{

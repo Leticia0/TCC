@@ -1,0 +1,31 @@
+/*AQUI MUDA A IMAGEM DE FUNDO*/
+body{
+	background-image:url(../img/restaurante.jpg);
+	background-position: center center;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+h3.fonte{
+	color: orange;
+}
+
+label#fonte{
+	color: orange;
+}
+
+div.espacamento{
+	margin-left: 4%;
+}
+
+a.button{
+	margin-left: 4%;
+}
+
+h3#pagina{
+	color: orange;
+	margin-left: 40%;
+	font-size: 24px;
+	padding-bottom: 4%;
+}

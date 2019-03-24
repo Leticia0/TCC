@@ -14,7 +14,7 @@
     <div class="row">
         <div class="ui sixteen wide column">
 
-            <h3 class="ui padded" style="color: orange">Encontre Restaurantes Próximos</h3>
+            <h3 class="ui padded" id="pagina">Encontre Restaurantes Próximos</h3>
 
         </div>
     </div>
@@ -60,9 +60,6 @@
                         </select>
                     </div>
 <br>
-                    <button class="ui icon button" style="margin-left: 47%">
-                        <i class="search icon"></i>
-                    </button>
                     <div class="field">
                         <label>Cidade</label>
                         <select class="ui dropdown">
@@ -73,6 +70,13 @@
                             <option value="SFS">São Francisco do Sul</option>
                         </select>
                     </div>
+                </div>
+                
+                <div id="botao">
+                    <button class="ui icon button">
+                        Pesquisar  
+                        <i class="search icon"></i>
+                    </button>
                 </div>
             </form>
         </div>

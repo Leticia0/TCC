@@ -14,28 +14,16 @@
 
 </head>
 
-
-
-    <!--
-    <body id="fundo" style="background-image: url(../../assets/img/carrossel/muffins.jpg); width: 50%;">
-        </body>
-
-        </head>
-
-        !-->
-
-
         <body>
            
-     
+<!--             Deixa o menu grande: 
 
-
-<!--
 <div class="ui nineteen wide column orange inverted segment">
     <div class="row">
+
 -->
 
-        <div id="menu" class="ui orange seven active item inverted menu">
+        <div id="menu" class="ui orange six active item inverted menu">
 
             <a href="index.php" class="item">
                 <img alt="" src="../../assets/img/logo.png">
@@ -44,21 +32,23 @@
             <a href="index.php" class="item">
                 Home
             </a>
-            <a href="cadastro_restaurante.php" class="item">
+
+            <a href="cadastroRestaurante.php" class="item">
                 Cadastre seu Restaurante
             </a>
+
             <a href="tipoComida.php" class="item">
                 Comidas
             </a>
+
             <a href="sobre_nos.php" class="item">
                 Sobre Nós
             </a>
-             <a href="restaurantes.php" class="item">
-                Restaurantes
-            </a>
+
             <a href="login.php" class="item">
                 <i class="user big circle icon"></i>
             </a>
+
         </div>
     </div>
 </div>

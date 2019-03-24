@@ -1,9 +1,36 @@
 body{
-background-image:url(../img/login.jpg);
-background-size: 100% 100%;
-background-position: center center;
-background-repeat: no-repeat;
-background-attachment: fixed;
-
-
+	background-image:url(../img/login.jpg);
+	background-size: 100% 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
+
+h2#login{
+	margin-left: 45%;
+	color: orange;
+	margin-top:2%;
+}
+
+form{
+	margin-left: 30%;
+	padding-top: 1%;
+}
+
+label#letra{
+	margin-left: 1%;
+	color: orange;
+}
+
+div#senha{
+	margin-top: 1%;
+}
+
+div#certo{
+	display: block;
+}
+
+div#botao{
+	padding-bottom: 10%;
+}
+

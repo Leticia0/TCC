@@ -1,10 +1,14 @@
-<?
+<?php
+
 ?>
+
 <html>
 
-
 	<head>
-<link rel="stylesheet" type="text/css" href="../../assets/css/rodape.css">
+        <link rel="stylesheet" type="text/css" href="../../assets/css/rodape.css"/>
+
+                                    <!-- SCRIPT JAVASCRIPT DOS CARDS DA PÁGINA "COMIDAS"-->
+
         <script>
             $('.ui.dropdown')
                 .dropdown()
@@ -15,7 +19,6 @@
                 on: 'hover'
             });
         </script>
-
 
 	</head>
 

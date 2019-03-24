@@ -1,9 +1,10 @@
+div.espaco{
+	margin-top: 20%;
+}
 
-
-img{
-	width: 70%;
-	margin-top: 25%;
-	
+img#tamanho{
+	width: 100%;	
+	height: 80%;
 }
 
 /*
