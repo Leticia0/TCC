@@ -1,6 +1,6 @@
 /*AQUI MUDA A IMAGEM DE FUNDO*/
 body{
-	background-image:url(../img/restaurante.jpg);
+	background-image:url(../img/fundo/restaurante.jpg);
 	background-position: center center;
 	background-attachment: scroll;
 	background-size: 100% 100%;

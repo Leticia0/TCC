@@ -29,6 +29,9 @@
                     <div class="field">
                         <label>Estado</label>
                         <select class="ui dropdown">
+
+
+
                             <option value=""></option>
                             <option value="AC">Acre</option>
                             <option value="AL">Alagoas</option>
@@ -74,15 +77,12 @@
                 
                 <div id="botao">
                     <button class="ui icon button">
-                        Pesquisar  
+                        <a href="restaurantes.php">Pesquisar  
                         <i class="search icon"></i>
                     </button>
                 </div>
             </form>
         </div>
-
-
-
 
         </div>
 

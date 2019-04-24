@@ -8,10 +8,9 @@ include("cabecalho.php");
     <link rel="stylesheet" type="text/css" href="../../assets/css/cabecalho.css">
     <link rel="stylesheet" type="text/css" href="../../assets/css/login.css">
 
+    	<div class="fundo">
         <h2 id="login">Login</h2>
     <form class="ui form"><br>
-       <p class="ui dividing header"></p>
-
         <div id="input" class="field">
             <label id="letra">E-mail</label>
             <div id="certo" class="two fields">
