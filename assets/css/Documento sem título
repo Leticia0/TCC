@@ -1,0 +1,15 @@
+.estadoo{
+	margin-left: 37%;
+	margin-top: 10%;
+}
+
+.titulo{
+	margin-top: 5%;
+
+}
+
+{
+	background-image:url(../img/fundo/fundo.jpg);
+	width: 100%;
+
+}

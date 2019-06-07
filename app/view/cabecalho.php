@@ -23,7 +23,7 @@
 
 -->
 
-        <div id="menu" class="ui orange six active item inverted menu">
+        <div id="menu" class="ui orange seven active item inverted menu">
 
             <a href="index.php" class="item">
                 <img alt="" src="../../assets/img/logo.png">
@@ -31,6 +31,10 @@
         
             <a href="index.php" class="item">
                 Home
+            </a>
+
+             <a href="buscar_restaurante.php" class="item">
+                Restaurantes
             </a>
 
             <a href="cadastroRestaurante.php" class="item">

@@ -10,6 +10,7 @@ h3#pagina{
 
 /*AQUI MUDA A IMAGEM DE FUNDO*/
 body{
+	position:relative;
 	background-image:url(../img/fundo/fundo.jpg);
 	background-position: center center;
 	background-attachment: scroll;
