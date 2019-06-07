@@ -10,18 +10,20 @@
 	<link rel="stylesheet" type="text/css" href="../../assets/SemanticUI/semantic.min.css">
     <link rel="stylesheet" type="text/css" href="../../assets/SemanticUI/components/icon.min.css">
 </head>
-<body>
-<div class="fundo">
-<center>
-	<div class="titulo">
-		<div class="jumbotron jumbotron-fluid">
-		  <div class="container">
+
+<body id="boddy">
+
+
+	<center>
+		<div class="titulo">
+			<div class="jumbotron jumbotron-fluid">
+		 	 <div class="container">
 		    <h1 class="display-4">Encontre o Restaurante Mais Próximo de Você</h1>
 		    <!-- <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>-->
 		  </div>
 		</div>
 	</div>
-</center>
+	</center>
 
 
 	<div class="estadoo">
@@ -45,12 +47,26 @@
 		      <div class="item">Paraná</div>
 		      <div class="item">Rio Grande do Sul</div>
 		      <div class="item">Santa Catarina</div>
-		    </div>
-		  </div>
-		</div>
-	</div>
+		    	</div>
+		 		 </div>
+				</div>
+			</div>
 
-</div>
+		</div>
+
+
+
+		<div>
+			
+			<?php
+    			include("../../assets/Bootstrap/carrossel.php");
+			?>
+
+
+
+		</div>
+
+
 
 </body>
 </html>

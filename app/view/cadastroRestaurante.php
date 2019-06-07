@@ -7,14 +7,12 @@
     <title>Cadastre Seu Restaurante</title>
     <link rel="stylesheet" type="text/css" href="../../assets/css/cadastroRestaurante.css">
     </head>
+
     <body>
-    <form class="ui form">
 
-        <body id="fundo" class="">
-            
-        </body>
+   	 <form class="ui form">
 
-         <h3 class="ui padded" id="pagina">Cadastre Seu Restaurante</h3>
+          <h3 class="ui padded" id="pagina">Cadastre Seu Restaurante</h3>
 
     <div class="espacamento">
         <div class="field">
@@ -116,7 +114,9 @@
                 <button class="ui green button" type="submit">Cadastrar</button>
             </a>
 
-    </form>
+   	 </form>
+   	
+
     </body>
 
     <footer>
