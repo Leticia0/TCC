@@ -14,9 +14,9 @@
 <body id="boddy">
 
 
-	<center>
-		<div class="titulo">
-			<div class="jumbotron jumbotron-fluid">
+	<center >
+		<div class="titulo" >
+			<div class="jumbotron jumbotron-fluid" style="background-color:#cfcfcf">
 		 	 <div class="container">
 		    <h1 class="display-4">Encontre o Restaurante Mais Próximo de Você</h1>
 		    <!-- <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>-->
@@ -56,7 +56,6 @@
 
 
 
-		<div>
 			
 			<?php
     			include("../../assets/Bootstrap/carrossel.php");
@@ -71,7 +70,7 @@
 </body>
 </html>
 
-
 <?php
 	include ("rodape.php");
 ?>
+
