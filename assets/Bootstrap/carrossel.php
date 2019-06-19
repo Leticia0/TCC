@@ -32,14 +32,26 @@
     <div  class="carousel-inner"  >  <!-- a class muda o tamanho da imagem -->
         <div class="carousel-item active" class="imagem-menu">
           <img id="tamanho" src="../../assets/img/carrossel/macarron.jpg" alt="First slide" class="imagem-menu">
+           <div class="carousel-caption d-none d-md-block">
+          <h5>Conheça o restaurante Dellandrea</h5>
+          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        </div>
         </div>
 
         <div  class="carousel-item" >
           <img id="tamanho" src="../../assets/img/carrossel/melancia.jpg" alt="Second slide">
+           <div class="carousel-caption d-none d-md-block">
+          <h5>Conheça o restaurante Santos</h5>
+          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        </div>
         </div>
 
         <div  class="carousel-item" >
           <img id="tamanho" src="../../assets/img/carrossel/pratos.jpg" alt="Third slide">
+           <div class="carousel-caption d-none d-md-block">
+          <h5>Conheça o restaurante BIFF</h5>
+          <p>BLA BLABLA BLA BLA.</p>
+        </div>
         </div>
 
     </div>

@@ -4,10 +4,13 @@ div#menu{
 
 div#menu a:hover{
     background-color: active;
+
+
 }
 
 div#login{
     margin-left: 30%;
+   
 }
 
 h3#login{

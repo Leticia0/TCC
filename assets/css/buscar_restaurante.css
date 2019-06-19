@@ -8,8 +8,13 @@
 
 }
 
-.fundo{
-	background-image:url(../img/fundo/fundo.jpg);
-	width: 100%;
+body#boddy{
+	background-image:url(../img/fundo/restaurante.jpg);
+	background-position: center center;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	
+	background-clip: border-box;
 
 }

@@ -1,17 +1,8 @@
-#botao{
-	padding-top: 2%;
-	margin-left: 4%;
-}
-
-h3#pagina{
-	color: orange;
-}
 
 
 /*AQUI MUDA A IMAGEM DE FUNDO*/
 body{
 	position:relative;
-	background-image:url(../img/fundo/fundo.jpg);
 	background-position: center center;
 	background-attachment: scroll;
 	background-size: 100% 100%;
@@ -34,3 +25,13 @@ body{
 
 #
 */
+
+#img1{
+	width: 35%; 
+	margin-right: 3%;
+
+}
+#img2{
+	width: 35%; 
+	
+}
